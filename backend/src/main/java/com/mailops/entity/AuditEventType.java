@@ -1,0 +1,12 @@
+package com.mailops.entity;
+
+public enum AuditEventType {
+    EMAIL_RECEIVED,
+    CLASSIFIED,
+    CONFIDENCE_CHECKED,
+    ACTION_SELECTED,
+    ACTION_EXECUTED,
+    HUMAN_REVIEW_REQUIRED,
+    HUMAN_REVIEWED,
+    ACTION_FAILED
+}

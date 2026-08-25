@@ -1,0 +1,166 @@
+[
+  {
+    "externalId": "seed-001",
+    "sender": "billing@abcsupplies.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Invoice INV-1042",
+    "body": "Hi Accounts Team,\n\nPlease find invoice INV-1042 attached for $4,500.\nPlease process it for payment.\n\nRegards,\nABC Supplies",
+    "receivedAt": "2026-08-10T09:12:00"
+  },
+  {
+    "externalId": "seed-002",
+    "sender": "finance@northwind-traders.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Submitting Invoice #NW-7789 for payment",
+    "body": "Good afternoon,\n\nAttached is invoice NW-7789 for services rendered in July, totaling $12,300.00. Payment terms are Net 30.\n\nThank you,\nNorthwind Traders Finance",
+    "receivedAt": "2026-08-11T14:02:00"
+  },
+  {
+    "externalId": "seed-003",
+    "sender": "ap@brightsteel.co",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Invoice for June maintenance - BS-2201",
+    "body": "Hello,\n\nPlease log invoice BS-2201 from Brightsteel Co for the June maintenance contract. Amount due: $2,150. Due date is 2026-09-15.\n\nBest,\nBrightsteel AP Team",
+    "receivedAt": "2026-08-12T08:45:00"
+  },
+  {
+    "externalId": "seed-004",
+    "sender": "invoices@globalparts.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "New invoice attached - GP-99871",
+    "body": "Hi team,\n\nWe are submitting our latest invoice GP-99871 for the parts order shipped last week. Please arrange payment at your earliest convenience.\n\nRegards,\nGlobal Parts Inc.",
+    "receivedAt": "2026-08-13T11:30:00"
+  },
+  {
+    "externalId": "seed-005",
+    "sender": "billing@creativeagencyco.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "March Retainer Invoice - CA-330",
+    "body": "Hello,\n\nPlease find our invoice CA-330 for the March marketing retainer, amount $7,800.00, currency USD. Let us know if you need anything else to process it.\n\nThanks,\nCreative Agency Co.",
+    "receivedAt": "2026-08-13T16:20:00"
+  },
+
+  {
+    "externalId": "seed-006",
+    "sender": "ops@partsdepot.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Payment status for INV-1032",
+    "body": "Hello,\n\nCan you please tell me when invoice INV-1032 will be paid?\n\nThanks.",
+    "receivedAt": "2026-08-14T10:05:00"
+  },
+  {
+    "externalId": "seed-007",
+    "sender": "accounts@steelworksltd.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Following up on invoice SW-5541 payment",
+    "body": "Hi there,\n\nWe submitted invoice SW-5541 three weeks ago and haven't seen payment yet. Could you confirm the expected payment date?\n\nRegards,\nSteelworks Ltd.",
+    "receivedAt": "2026-08-14T13:40:00"
+  },
+  {
+    "externalId": "seed-008",
+    "sender": "billing@quickfreightco.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Has QF-2290 been paid yet?",
+    "body": "Hello,\n\nJust checking in - has invoice QF-2290 been paid? We need to update our records.\n\nThank you,\nQuick Freight Co.",
+    "receivedAt": "2026-08-15T09:15:00"
+  },
+  {
+    "externalId": "seed-009",
+    "sender": "finance@lightboxmedia.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "When will LB-410 be settled?",
+    "body": "Hi,\n\nOur invoice LB-410 was due last week. When can we expect settlement?\n\nBest,\nLightbox Media Finance",
+    "receivedAt": "2026-08-15T15:50:00"
+  },
+  {
+    "externalId": "seed-010",
+    "sender": "ar@harborlogistics.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Status check - invoice HL-8823",
+    "body": "Good morning,\n\nCould someone confirm the payment status of invoice HL-8823? It's been outstanding for a while and we'd like an update.\n\nThanks,\nHarbor Logistics AR Team",
+    "receivedAt": "2026-08-16T08:30:00"
+  },
+
+  {
+    "externalId": "seed-011",
+    "sender": "procurement@vertexindustrial.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Dispute on INV-1004",
+    "body": "I disagree with the amount charged on invoice INV-1004.\nI would like to dispute this invoice.",
+    "receivedAt": "2026-08-16T11:00:00"
+  },
+  {
+    "externalId": "seed-012",
+    "sender": "finance@omegapackaging.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Incorrect charge on OP-6612",
+    "body": "Hello,\n\nWe were charged $3,200 on invoice OP-6612 but our agreed rate was $2,600. We dispute this overcharge and request a correction.\n\nRegards,\nOmega Packaging",
+    "receivedAt": "2026-08-17T09:20:00"
+  },
+  {
+    "externalId": "seed-013",
+    "sender": "ap@silverlinelogistics.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "We dispute invoice SL-990",
+    "body": "To whom it may concern,\n\nInvoice SL-990 includes a shipping surcharge that was never agreed upon. We formally dispute this line item and request it be reviewed.\n\nSilverline Logistics",
+    "receivedAt": "2026-08-17T14:10:00"
+  },
+  {
+    "externalId": "seed-014",
+    "sender": "billing@redcliffconsulting.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Objection to invoice RC-1120 amount",
+    "body": "Hi,\n\nThe hours billed on invoice RC-1120 do not match our records. We object to the total amount and would like this investigated before payment.\n\nRedcliff Consulting",
+    "receivedAt": "2026-08-18T10:45:00"
+  },
+
+  {
+    "externalId": "seed-015",
+    "sender": "prize-notify@luckywinnersclub.biz",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Congratulations!!!",
+    "body": "You have won $1,000,000.\nClick here immediately.",
+    "receivedAt": "2026-08-18T12:00:00"
+  },
+  {
+    "externalId": "seed-016",
+    "sender": "no-reply@free-crypto-bonus.info",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "URGENT: Claim your free Bitcoin now!!",
+    "body": "You have been selected to receive 2 free Bitcoin. Click the link below within 24 hours to claim your reward before it expires!",
+    "receivedAt": "2026-08-19T07:05:00"
+  },
+  {
+    "externalId": "seed-017",
+    "sender": "deals@mega-discount-outlet.top",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "90% OFF EVERYTHING - today only!!!",
+    "body": "Huge flash sale! 90% off all items storewide. Limited time only. Click now to shop before the sale ends tonight!",
+    "receivedAt": "2026-08-19T18:30:00"
+  },
+
+  {
+    "externalId": "seed-018",
+    "sender": "office@midtownrealty.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "Invoice 1044",
+    "body": "Hi,\n\nRegarding invoice 1044, can someone please check what is happening with it?\n\nThanks.",
+    "receivedAt": "2026-08-20T09:00:00"
+  },
+  {
+    "externalId": "seed-019",
+    "sender": "accounts@pinegrovesupply.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "About PG-3305",
+    "body": "Hello,\n\nWe need to talk about invoice PG-3305 - something doesn't look right and we're not sure it should be paid as is. Please advise.\n\nPine Grove Supply",
+    "receivedAt": "2026-08-20T13:25:00"
+  },
+  {
+    "externalId": "seed-020",
+    "sender": "contact@summitwholesale.com",
+    "recipient": "accounts@ourcompany.com",
+    "subject": "RE: RE: invoice question",
+    "body": "Hi,\n\nFollowing up again on this - can someone get back to us about the invoice we sent last month? Still no update on our end.\n\nSummit Wholesale",
+    "receivedAt": "2026-08-21T10:10:00"
+  }
+]
