@@ -17,6 +17,10 @@ frontend/build/
 backend/target/
 *.class
 
+# Build
+dist/
+build/
+
 # IDE
 .idea/
 .vscode/
